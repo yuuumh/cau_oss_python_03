@@ -14,4 +14,5 @@ GitLens 실습
 Homework#4, figure 모듈 구현
 
 ## 2023-06-01
-Homework#5 New figure 모듈 구현
+Homework#5, New figure 모듈 구현
+
